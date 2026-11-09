@@ -35,11 +35,11 @@
     "DetailImages": ["Screenshot 2026-11-09 092848", "Screenshot 2026-11-09 093009"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "Title": "Introduction to Data Science Final",
+    "Desc": "This project was made for my final project in Introduction to Data Science, it was to show a webb launched application for statistics.<br><br>It does not have a GitHub repo.",
+    "GitHubRepo": "",
+    "MainImage": "Screenshot 2026-11-09 093744",
+    "DetailImages": ["Screenshot 2026-11-09 093802", "Screenshot 2026-11-09 094008"]
   },
   "Project3": {
     "Title": "Interesting Project 3",
