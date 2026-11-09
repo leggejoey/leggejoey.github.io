@@ -28,11 +28,11 @@
   "Resume": "Resume 2026.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "Title": "Exp-Addition To The Old West",
+    "Desc": "This Project was made for the 2026 SPU Hackathon, and it was made by a friend of mine and I over the course of 3 days. We placed second in the competition for our solution to increasing learning retention rates in K through 12 students. We narrowed our scope down to 1st through 3rd and designed a point-and-click adventure math game<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "GitHubRepo": "https://github.com/leggejoey/Learning-Game---SPU_Hacks",
+    "MainImage": ,
+    "DetailImages": []
   },
   "Project2": {
     "Title": "Interesting Project 2",
