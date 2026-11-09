@@ -42,10 +42,10 @@
     "DetailImages": ["Screenshot 2026-11-09 093802", "Screenshot 2026-11-09 094008"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
+    "Title": "Texas V.S. Maryland",
+    "Desc": "This is a research paper describing gerrymandering in the U.S. in particular it is about gerrmandering in Texas V.S. in Maryland.<br><br>It does have a GitHub repo but since it's a paper it doesn't have any additional screenshots.",
+    "GitHubRepo": "https://github.com/leggejoey/Data-and-Society-Texas-VS-Maryland",
+    "MainImage": "Screenshot 2026-11-09 095800",
     "DetailImages": []
   },
   "Project4": {
