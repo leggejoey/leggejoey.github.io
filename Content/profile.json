@@ -31,21 +31,21 @@
     "Title": "Exp-Addition To The Old West",
     "Desc": "This Project was made for the 2026 SPU Hackathon, and it was made by a friend of mine and I over the course of 3 days. We placed second in the competition for our solution to increasing learning retention rates in K through 12 students. We narrowed our scope down to 1st through 3rd and designed a point-and-click adventure math game<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com/leggejoey/Learning-Game---SPU_Hacks",
-    "MainImage": "Screenshot 2026-11-09 092648",
-    "DetailImages": ["Screenshot 2026-11-09 092848", "Screenshot 2026-11-09 093009"]
+    "MainImage": "Screenshot 2026-11-09 092648.png",
+    "DetailImages": ["Screenshot 2026-11-09 092848.png", "Screenshot 2026-11-09 093009.png"]
   },
   "Project2": {
     "Title": "Introduction to Data Science Final",
     "Desc": "This project was made for my final project in Introduction to Data Science, it was to show a webb launched application for statistics.<br><br>It does not have a GitHub repo.",
     "GitHubRepo": "",
-    "MainImage": "Screenshot 2026-11-09 093744",
-    "DetailImages": ["Screenshot 2026-11-09 093802", "Screenshot 2026-11-09 094008"]
+    "MainImage": "Screenshot 2026-11-09 093744.png",
+    "DetailImages": ["Screenshot 2026-11-09 093802.png", "Screenshot 2026-11-09 094008.png"]
   },
   "Project3": {
     "Title": "Texas V.S. Maryland",
     "Desc": "This is a research paper written by me and a group of peers describing gerrymandering in the U.S. in particular it is about gerrmandering in Texas V.S. in Maryland.<br><br>It does have a GitHub repo but since it's a paper it doesn't have any additional screenshots.",
     "GitHubRepo": "https://github.com/leggejoey/Data-and-Society-Texas-VS-Maryland",
-    "MainImage": "Screenshot 2026-11-09 095800",
+    "MainImage": "Screenshot 2026-11-09 095800.png",
     "DetailImages": []
   },
   "Project4": {
