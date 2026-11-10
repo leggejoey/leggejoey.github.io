@@ -22,7 +22,7 @@
   "EducationText": "I am presently finishing my senior year at Seattle Pacific University, I will be graduating in june 2027 with a bachelors of science in computer science, and a minor in data analytics. At this point in time I have built several software projects, connected with peers, and begun building something new for my future.",
   "Employment": "Pressco Products",
   "Role": "CNC Engineering Technician Assistant",
-  "EmploymentText": "I mainly did a mixture of database management, I.T. and data analytics for this role. It counted for fulfilling my internship requirement",
+  "EmploymentText": "I mainly did a mixture of database management, I.T. and data analytics for this role, and it counted for fulfilling my internship requirement.",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", "R and RStudio", "Python", "Rust", "SQL"],
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume": "Resume 2026.pdf"  
