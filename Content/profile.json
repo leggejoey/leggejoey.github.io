@@ -14,7 +14,7 @@
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "As of Now I am CO Founding a startup for developing software.<br><br>",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Minor": "Data Analytics",
@@ -23,8 +23,8 @@
   "Employment": "Pressco Products",
   "Role": "CNC Engineering Technician Assistant",
   "EmploymentText": "I mainly did a mixture of database management, I.T. and data analytics for this role, and it counted for fulfilling my internship requirement.",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", "R and RStudio", "Python", "Rust", "SQL"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", "R and RStudio", "Python", "Rust", "SQL", "Go", "Prolog", "Scheme"],
+  "SkillsText": "I've picked up a bunch of new skills over the last few years in college and have been able to put them into practice through class projects as well as other projects outside of course requirements.",
   "Resume": "Resume 2026.pdf"  
 },
 "Project1": {
